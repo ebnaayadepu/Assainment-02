@@ -24,8 +24,8 @@ body{
 
 .hero-text h1 {
     font-size: 3rem;
+    max-width: 700px;
 }
-
 
 .btn-get-started {
     background-color: #f66a3e;
